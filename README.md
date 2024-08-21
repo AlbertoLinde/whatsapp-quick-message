@@ -1,10 +1,13 @@
-# WhatsApp Quick Message 🚀
+# WhatsApp Quick Message 🚀 
 
-[![GitHub issues](https://img.shields.io/github/issues/AlbertoLinde/whatsapp-quick-message.svg)](https://github.com/AlbertoLinde/whatsapp-quick-message/issues)
-[![GitHub forks](https://img.shields.io/github/forks/AlbertoLinde/whatsapp-quick-message.svg)](https://github.com/AlbertoLinde/whatsapp-quick-message/network)
-[![GitHub stars](https://img.shields.io/github/stars/AlbertoLinde/whatsapp-quick-message.svg)](https://github.com/AlbertoLinde/whatsapp-quick-message/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Chrome Web Store](https://img.shields.io/badge/Status-Pending%20Approval-yellow)](https://chrome.google.com/webstore/detail/whatsapp-quick-message/dlnbbkcoadlkihijmfkphkldkkkkdmog)
+[![GitHub issues](https://img.shields.io/github/issues/AlbertoLinde/whatsapp-quick-message.svg?style=for-the-badge)](https://github.com/AlbertoLinde/whatsapp-quick-message/issues)
+[![GitHub forks](https://img.shields.io/github/forks/AlbertoLinde/whatsapp-quick-message.svg?style=for-the-badge)](https://github.com/AlbertoLinde/whatsapp-quick-message/network)
+[![GitHub stars](https://img.shields.io/github/stars/AlbertoLinde/whatsapp-quick-message.svg?style=for-the-badge)](https://github.com/AlbertoLinde/whatsapp-quick-message/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Chrome Web Store](https://img.shields.io/badge/Status-Pending%20Approval-yellow?style=for-the-badge)](https://chrome.google.com/webstore/detail/whatsapp-quick-message/dlnbbkcoadlkihijmfkphkldkkkkdmog)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-orange?style=for-the-badge)](https://buymeacoffee.com/albertolinde)
+
+
 
 
 <p align="center">
@@ -69,3 +72,5 @@ _Created with ❤️ by [Alberto Linde](https://www.albertolinde.com)_
 _Creado con ❤️ por [Alberto Linde](https://www.albertolinde.com)_
 
 </details>
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/albertolinde)
