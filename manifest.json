@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Alberto Linde",
   "action": {
-    "default_popup": "src/popup/popup.html",
+    "default_popup": "popup.html",
     "default_icon": {
       "16": "assets/icon16.png",
       "48": "assets/icon48.png",
@@ -16,7 +16,7 @@
     "tabs"
   ],
   "background": {
-    "service_worker": "src/background.js"
+    "service_worker": "background.js"
   },
   "web_accessible_resources": [
     {
