@@ -7,6 +7,12 @@
 [![Chrome Web Store](https://img.shields.io/badge/Status-Pending%20Approval-yellow)](https://chrome.google.com/webstore/detail/whatsapp-quick-message/dlnbbkcoadlkihijmfkphkldkkkkdmog)
 
 
+<center>
+
+![Banner](https://i.imgur.com/SVHHysT.png)
+
+</center>
+
 
 Tired of adding people to your contacts just to send them a WhatsApp? 🙄 We've got you covered! With WhatsApp Quick Message, you can send a message without saving the contact. Simply enter the phone number, type your message (optional), and hit send. It's fast, simple, and you stay contact-free. 😎
 
