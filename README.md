@@ -4,7 +4,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/AlbertoLinde/whatsapp-quick-message.svg)](https://github.com/AlbertoLinde/whatsapp-quick-message/network)
 [![GitHub stars](https://img.shields.io/github/stars/AlbertoLinde/whatsapp-quick-message.svg)](https://github.com/AlbertoLinde/whatsapp-quick-message/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/undefined.svg)](https://chrome.google.com/webstore/detail/whatsapp-quick-message/undefined) <!-- Reemplaza 'undefined' con el ID real de tu extensión cuando esté disponible -->
+[![Chrome Web Store](https://img.shields.io/badge/Status-Pending%20Approval-yellow)](https://chrome.google.com/webstore/detail/whatsapp-quick-message/dlnbbkcoadlkihijmfkphkldkkkkdmog)
+
+
 
 Tired of adding people to your contacts just to send them a WhatsApp? 🙄 We've got you covered! With WhatsApp Quick Message, you can send a message without saving the contact. Simply enter the phone number, type your message (optional), and hit send. It's fast, simple, and you stay contact-free. 😎
 
