@@ -1,0 +1,11 @@
+{
+  "title": "WhatsApp Quick Message",
+  "phone_label": "Phone Number:",
+  "phone_placeholder": "Enter full phone number (with country code)",
+  "hint": "⚠️ Please include the country code (e.g., +34 for Spain)",
+  "add_message": "+ Add a Message",
+  "remove_message": "- Remove Message",
+  "message_label": "Message:",
+  "send_button": "Send WhatsApp",
+  "invalid_phone": "Please enter a valid phone number with the country code (e.g., +34 for Spain)."
+}
