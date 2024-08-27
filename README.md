@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/AlbertoLinde/whatsapp-quick-message.svg?style=for-the-badge)](https://github.com/AlbertoLinde/whatsapp-quick-message/network)
 [![GitHub stars](https://img.shields.io/github/stars/AlbertoLinde/whatsapp-quick-message.svg?style=for-the-badge)](https://github.com/AlbertoLinde/whatsapp-quick-message/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Chrome Web Store](https://img.shields.io/badge/Status-Pending%20Approval-yellow?style=for-the-badge)](https://chrome.google.com/webstore/detail/whatsapp-quick-message/dlnbbkcoadlkihijmfkphkldkkkkdmog)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-brightgreen?style=for-the-badge)](https://chrome.google.com/webstore/detail/whatsapp-quick-message/dlnbbkcoadlkihijmfkphkldkkkkdmog)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-orange?style=for-the-badge)](https://buymeacoffee.com/albertolinde)
 
 
