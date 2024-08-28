@@ -72,5 +72,3 @@ _Created with ❤️ by [Alberto Linde](https://www.albertolinde.com)_
 _Creado con ❤️ por [Alberto Linde](https://www.albertolinde.com)_
 
 </details>
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/albertolinde)
